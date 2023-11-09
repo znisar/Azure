@@ -1,4 +1,4 @@
-# Azure & Terraform
+# Azure & Terraform Build
 Azure Cloud modules and exercises written using Terraform. Scripts are ready and can be deployed in a cloud environment.
 
 # Setup
